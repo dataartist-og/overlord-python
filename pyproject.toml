@@ -67,10 +67,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dataartist-og/overlord-python"
+Homepage = "https://github.com/YOUR_ORG/overlord"
 Documentation = "https://overlord.readthedocs.io"
-Repository = "https://github.com/dataartist-og/overlord-python.git"
-Issues = "https://github.com/dataartist-og/overlord-python/issues"
+Repository = "https://github.com/YOUR_ORG/overlord.git"
+Issues = "https://github.com/YOUR_ORG/overlord/issues"
 
 [project.scripts]
 overlord = "overlord.main:main"

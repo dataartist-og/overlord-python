@@ -55,8 +55,8 @@ Every GitHub issue created by Overlord includes its computed blast radius, ensur
 
 ```bash
 # Clone the repository
-git clone https://github.com/dataartist-og/overlord-python.git
-cd overlord-python
+git clone https://github.com/YOUR_ORG/overlord.git
+cd overlord
 
 # Create virtual environment
 python -m venv venv
@@ -438,8 +438,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for development guidelines.
 ## Support
 
 - Documentation: [docs/](./docs/)
-- Issues: [GitHub Issues](https://github.com/dataartist-og/overlord-python/issues)
-- Discussions: [GitHub Discussions](https://github.com/dataartist-og/overlord-python/discussions)
+- Issues: [GitHub Issues](https://github.com/YOUR_ORG/overlord/issues)
+- Discussions: [GitHub Discussions](https://github.com/YOUR_ORG/overlord/discussions)
 
 ---
 

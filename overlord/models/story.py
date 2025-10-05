@@ -97,7 +97,7 @@ class Story(BaseModel):
         lines = []
         
         # User value
-        lines.append("## 📚 Story")
+        lines.append("## 📖 Story")
         lines.append("")
         lines.append(self.user_value)
         lines.append("")
